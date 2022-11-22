@@ -22,7 +22,7 @@
     "react-dom": "^16.13.1",
     "react-dom-factories": "^1.0.0",
     "react-moment": "^0.9.7",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-transition-group": "^1.1.2"
   },
   "scripts": {
